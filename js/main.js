@@ -50,7 +50,3 @@ createBoard = function (){
 
 };
 createBoard();
-var reset = function(){
-	window.location.reload();
-}
-button.addEventListener('click', reset);
